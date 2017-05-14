@@ -1,0 +1,317 @@
+[
+  {
+    "psr_no": 1,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "1000110001111100100011011101010",
+        "decimal": 1178486506
+      },
+      "seconds": 0.8296830003
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 343
+      },
+      "distance": {
+        "relative": 27,
+        "absolute": {
+          "parsecs": 2300
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 2,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "10110010011000101011101101111",
+        "decimal": 374101871
+      },
+      "seconds": 0.0.2633767643
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 311
+      },
+      "distance": {
+        "relative": 2,
+        "absolute": {
+          "parsecs": 160
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 3,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "100000110110010110001001111000",
+        "decimal": 551117432
+      },
+      "seconds": 0.3880000002
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 302
+      },
+      "distance": {
+        "relative": 56,
+        "absolute": {
+          "parsecs": 4700
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 4,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "111100011011011001010100111",
+        "decimal": 126726823
+      },
+      "seconds": 0.0892187481
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 265
+      },
+      "distance": {
+        "relative": 15,
+        "absolute": {
+          "parsecs": 1300
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 5,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "10101011011001101100101000011",
+        "decimal": 359455043
+      },
+      "seconds": 0.2530650432
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 231
+      },
+      "distance": {
+        "relative": 1,
+        "absolute": {
+          "parsecs": 120
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 6,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "101100111011010101011110001011",
+        "decimal": 753751947
+      },
+      "seconds": 0.5306595992
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 198
+      },
+      "distance": {
+        "relative": 2,
+        "absolute": {
+          "parsecs": 160
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 7,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "10110011100000101010000010",
+        "decimal": 47057538
+      },
+      "seconds": 0.0331296448
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 186
+      },
+      "distance": {
+        "relative": 18,
+        "absolute": {
+          "parsecs": 1500
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 8,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "100111101000110101000100111000100",
+        "decimal": 126726823
+      },
+      "seconds": 0.0892187481
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 183
+      },
+      "distance": {
+        "relative": 11,
+        "absolute": {
+          "parsecs": 980
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 9,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "111100011111100011111000010110",
+        "decimal": 1014906390
+      },
+      "seconds": 0.7145186427
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 145
+      },
+      "distance": {
+        "relative": 7,
+        "absolute": {
+          "parsecs": 570
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 10,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "101101100101101001000010110001",
+        "decimal": 764842161
+      },
+      "seconds": 0.5384673780
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 97
+      },
+      "distance": {
+        "relative": 10,
+        "absolute": {
+          "parsecs": 850
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 11,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "101111001111001110011000001101",
+        "decimal": 792520205
+      },
+      "seconds": 0.5579533903
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 68
+      },
+      "distance": {
+        "relative": 3,
+        "absolute": {
+          "parsecs": 280
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 12,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "11110010111110001110100011110",
+        "decimal": 509549854
+      },
+      "seconds": 0.3587354200
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 52
+      },
+      "distance": {
+        "relative": 40,
+        "absolute": {
+          "parsecs": 3400
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 13,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "10011001011010111010010111000",
+        "decimal": 321746104
+      },
+      "seconds": 0.2265170382
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 45
+      },
+      "distance": {
+        "relative": 1,
+        "absolute": {
+          "parsecs": 81
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 14,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": "100000110100101010001110101100",
+        "decimal": 550675372
+      },
+      "seconds": 0.3876887792
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 16
+      },
+      "distance": {
+        "relative": 4,
+        "absolute": {
+          "parsecs": 320
+        }
+      }
+    }
+  },
+  {
+    "psr_no": 15,
+    "period": {
+      "hydrogen_transition_units": {
+        "binary": null,
+        "decimal": null
+      },
+      "seconds": null
+    },
+    "to_galactic_center": {
+      "direction": {
+        "degrees": 0
+      },
+      "distance": {
+        "relative": 100,
+        "absolute": {
+          "parsecs": 8100
+        }
+      }
+    }
+  }
+]
